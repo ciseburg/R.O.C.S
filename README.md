@@ -12,6 +12,6 @@ Presentation - https://prezi.com/view/YXRu3GoqLeITaGqw9WXX/
 ![Billing](/billing.png?raw=true "billing")
 ![Future](/future.png?raw=true "Future")
 ![Future-Enhancements](/future-enhancements.png?raw=true "Enhancements")
-![Impact](/impact.png?raw=true "Impact")
+![Impact](/Impact.png?raw=true "Impact")
 ![Thank you](/thank-you.png?raw=true "Thank you")
 
